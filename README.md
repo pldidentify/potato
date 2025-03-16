@@ -1,1 +1,1 @@
-# potato
+# Potato Leaf Disease Identification
